@@ -1,0 +1,26 @@
+﻿body {
+    margin: 50px;
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+label {
+    color: black;
+    font-family: Arial;
+}
+
+option {
+    color: black;
+}
+
+button {
+    background-color: floralwhite;
+    border: none;
+    font-family: Arial;
+}
